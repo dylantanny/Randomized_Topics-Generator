@@ -1,6 +1,7 @@
-# 日本語ライティング練習 / Japanese Writing Practice Topic Picker
+ Japanese Writing Practice Topic Picker
 
-A simple Python script that gives you a random daily writing topic in Japanese, tracking which ones you've already used so you don't repeat yourself until you've gone through all 50.
+A simple Python script that gives you a random daily writing topic in any language tracking which ones you've already used so you don't repeat yourself until you've gone through all 50.
+you can create and use how many topics you want
 
 ---
 
